@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PDFDownload</string>
+    <string name="name">PDF Download Activity</string>
+    <string name="pdfLocation1">PDF File Location:</string>
+    <string name="startDownload">start Download</string>
+    <string name="description">Please provide list of five SJSU PDFs to download * hardcode of  files is file or you can provide full qualified names..</string>
+</resources>
